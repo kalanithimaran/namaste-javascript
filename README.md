@@ -61,7 +61,3 @@ This repository organizes the content from the playlist into the following secti
 ### 9. Project-Based Learning  
 - Mini Projects to Reinforce Concepts  
 - Examples from the Playlist  
-
----
-
-## How to Use This Repository? 🛠️
